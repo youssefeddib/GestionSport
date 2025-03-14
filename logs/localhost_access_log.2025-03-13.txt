@@ -59,3 +59,6 @@
 0:0:0:0:0:0:0:1 - - [13/Mar/2025:15:28:38 +0100] "GET /GestionSport HTTP/1.1" 302 -
 0:0:0:0:0:0:0:1 - - [13/Mar/2025:15:28:40 +0100] "GET /GestionSport/ HTTP/1.1" 200 2833
 0:0:0:0:0:0:0:1 - - [13/Mar/2025:15:28:40 +0100] "GET /GestionSport/css/style.css HTTP/1.1" 404 715
+0:0:0:0:0:0:0:1 - - [13/Mar/2025:15:50:17 +0100] "GET /GestionSport HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2025:15:50:18 +0100] "GET /GestionSport/ HTTP/1.1" 200 2833
+0:0:0:0:0:0:0:1 - - [13/Mar/2025:15:50:18 +0100] "GET /GestionSport/css/style.css HTTP/1.1" 404 715
