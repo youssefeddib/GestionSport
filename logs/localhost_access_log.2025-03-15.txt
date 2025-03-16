@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:11:03 +0100] "GET /GestionSport/services.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:11:11 +0100] "GET /GestionSport/inscription.jsp HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:11:19 +0100] "GET /GestionSport/connexion.jsp HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:23:48 +0100] "GET /GestionSport HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:23:50 +0100] "GET /GestionSport/ HTTP/1.1" 200 2655
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:23:50 +0100] "GET /GestionSport/css/style.css HTTP/1.1" 404 715
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:23:50 +0100] "GET /GestionSport/pexels-dubtastic-28320723.jpg HTTP/1.1" 200 4500149
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:25:42 +0100] "GET /GestionSport HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:25:44 +0100] "GET /GestionSport/ HTTP/1.1" 200 2633
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:25:44 +0100] "GET /GestionSport/css/style.css HTTP/1.1" 404 715
+0:0:0:0:0:0:0:1 - - [15/Mar/2025:02:25:44 +0100] "GET /GestionSport/add.jpg HTTP/1.1" 200 3706682

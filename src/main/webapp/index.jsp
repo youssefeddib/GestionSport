@@ -19,7 +19,7 @@
         .hero {
             position: relative;
             height: 100vh;
-            background: url('bckg.jpeg') no-repeat center center/cover;
+            background: url('add.jpg') no-repeat center center/cover;
             display: flex;
             align-items: center;
             justify-content: center;
